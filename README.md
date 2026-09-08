@@ -43,15 +43,7 @@ The dashboard helps identify:
 * Differences in transaction patterns across segments
 * Periods with higher or lower transaction activity
 
-## 📷 Dashboard Preview
 
-### Page 1
-
-![UPI Dashboard Page 1](Screenshots/dashboard_page1.png)
-
-### Page 2
-
-![UPI Dashboard Page 2](Screenshots/dashboard_page2.png)
 
 ## 📁 Project Structure
 
